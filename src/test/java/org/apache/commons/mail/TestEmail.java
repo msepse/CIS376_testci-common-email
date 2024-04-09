@@ -23,8 +23,6 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;
 
-private static final testVariable = 0;
-
 public class TestEmail {
 	private EmailStub emailobj;
 	
